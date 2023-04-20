@@ -18,7 +18,7 @@ body{
    display:flex;
    flex-direction: column;
    min-height: 100vh;
-   background:url(/todo/abstract-g60ff3331a_1920.png);
+   background:var(--darkest:#111827;)
    color:var(--light);
 
 
