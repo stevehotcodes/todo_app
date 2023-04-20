@@ -11,9 +11,9 @@ window.addEventListener('load',()=>{
        //assigning the input value to the task variable
        const task=input.value;
          //test condition of whether value is inserted or not
-         if(!task){
-            alert("please enter some tasks to continue");
-         }
+        //  if(!task){
+        //     //alert("please enter some tasks to continue");
+        //  }
          
         //  else{
         //     alert("Task added successfully");
